@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i7Cr53+cCTkiUpn8D2EC2fSJAtQRoB+t6Z5SGEFFyrWRhG7kWAIobiwjFofxm5ESfYGpu1Ku5B/50lChlnoVMA==",
+  "dgSpecHash": "lB505kcOMLUJnxWD7C8cPGriwUfCJt172YAgDAvhUe5RZmLuU1lVqx5+9iszTA+tLUZy23LojCPs1CWBR0ijQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\gameStoreAPI\\gameStoreAPI.csproj",
+  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Documentos\\webapi\\gameStoreAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
